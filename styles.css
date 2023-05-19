@@ -1,1 +1,19 @@
 /*  your css code here. If applicable */
+body{
+	background-color: #f5f5f5;
+}
+header {
+	text-align: center;
+	background-color: #011e29;
+	color: white;
+	padding: 1px;
+}
+div {
+	background-color: white;
+	text-align: center;
+	border-radius: 10px;
+	width: 200px;
+	padding: 5px;
+	margin-top: 10px;
+}
+
