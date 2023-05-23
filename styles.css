@@ -8,12 +8,18 @@ header {
 	color: white;
 	padding: 1px;
 }
-div {
-	background-color: white;
-	text-align: center;
-	border-radius: 10px;
-	width: 200px;
-	padding: 5px;
-	margin-top: 10px;
-}
+section{
+	 background-color: white;
+	 border: 1px solid white;
+	 border-radius: 20px;
+	 text-align: center;
+	 padding: 10px;
+	 margin: 2px;
+	 width:200px;
+	 display: inline-block
+ }
+
+
+
+
 
