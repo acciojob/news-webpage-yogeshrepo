@@ -13,7 +13,7 @@ body {
   
   .hero-section {
   vertical-align:top;
-  display:inline-block;
+  
   width:40%;
   background-color: white;
   padding: 20px;
@@ -24,7 +24,7 @@ body {
   .latest-news-section {
   vertical-align:top;
   background-color: white;
-  display:inline-block;
+  
   width:20%;
   padding: 20px;
   border-radius:20px;
@@ -32,7 +32,7 @@ body {
   
   .pictorial-news-section {
   vertical-align:top;
-  display:inline-block;
+  
   background-color: white;
   width:20%;
   padding: 20px;
@@ -41,8 +41,8 @@ body {
   }
   
   .container{
-	  display:flex;
-  position:relative;
+  display:flex;
+  
   text-align:center;
   margin-top:10px;
   }
